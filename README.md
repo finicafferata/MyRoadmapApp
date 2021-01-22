@@ -15,7 +15,7 @@ As this project is still WIP, I wrote down some functionalities I want to develo
 > Please, feel free to check this project and suggest new functionalities or fixes. 
 
 ### Available Scripts
-> To run it, please do it over the main branch. I will be working on the dev branch and merging after a new functionality is done. 
+> To run it, please do it over the master branch. I will be working on the dev branch and merging after a new functionality is done. 
 
 Standing on "client", you can run:
 ### `yarn start`

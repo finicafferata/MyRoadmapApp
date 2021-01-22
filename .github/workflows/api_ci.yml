@@ -1,4 +1,4 @@
-name: appname
+name: My Roadmap App
 
 on: [push]
 

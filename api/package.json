@@ -1,7 +1,7 @@
 {
-  "name": "appname-api",
+  "name": "my-roadmap-app-api",
   "version": "1.0.0",
-  "description": "appname API",
+  "description": "My Roadmap App API",
   "author": "Josefina Cafferata Leloir <jcafferataleloir@gmail.com>",
   "license": "UNLICENSED",
   "private": true,

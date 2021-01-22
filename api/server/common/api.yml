@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
-  title: appname-api
-  description: El Potrero - appname API
+  title: My Roadmap App
+  description: My Roadmap App
   version: 1.0.0
 
 servers:

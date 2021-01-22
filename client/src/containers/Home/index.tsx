@@ -3,7 +3,7 @@ import Typography from "@material-ui/core/Typography";
 import useStyles from "./styles";
 import MapComponent from "../../components/Map";
 
-export default function Home() {
+export default function Home(): JSX.Element {
   const classes = useStyles();
 
   return (
@@ -13,7 +13,7 @@ export default function Home() {
       </div>
       <div className={classes.text}>
         <Typography variant="h4">
-          Welcome to My Roadtrip App!
+          Welcome to My Roadmap App!
         </Typography>
         <Typography variant="h5">
           Here you will be able to view someone else's roadtrips, their

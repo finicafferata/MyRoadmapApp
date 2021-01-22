@@ -14,7 +14,7 @@ const Map = () => {
       scrollWheelZoom={false}
     >
       <TileLayer
-        url={`https://api.mapbox.com/styles/v1/finicafferata/ckjwu7kn613pj17ppv9aqyf9e/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiZmluaWNhZmZlcmF0YSIsImEiOiJja2p3dXZnYXgxNGkxMnFwMzlsd2lrbDJlIn0.hvQee-ZG5x04knRi05tVOQ`}
+        url={`https://api.mapbox.com/styles/v1/finicafferata/ckjwu7kn613pj17ppv9aqyf9e/tiles/256/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_MAPBOXTOKEN}`}
         attribution='Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery &copy; <a href="https://www.mapbox.com/">Mapbox</a>'
       />
       <Marker position={position}>

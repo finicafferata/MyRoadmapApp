@@ -3,6 +3,7 @@
 ### Presentation
 Hi! I am working on my first solo project where I want to practice everything I learnt in Soy Henry Bootcamp: My Roadmap App.
 This website's objective is to let users register their trips and share their memories with friends and families. 
+I am using Mapbox to render the maps and navigate the world, as they say.
 
 ### Future functionalities
 As this project is still WIP, I wrote down some functionalities I want to develop. Users will be able to:
@@ -31,3 +32,5 @@ Standing on "api", you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view the documentation in the browser.
+
+> You will need to create an access token in [https://www.mapbox.com/](Mapbox)

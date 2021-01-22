@@ -33,4 +33,4 @@ Standing on "api", you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view the documentation in the browser.
 
-> You will need to create an access token in [https://www.mapbox.com/](Mapbox)
+> You will need to create an access token in [Mapbox](https://www.mapbox.com/)
